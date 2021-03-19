@@ -114,6 +114,7 @@ nav li a:hover {
 }
 
 .img_description {
+  width: 160px;
   size: 20px;
   text-align: center;
 }
